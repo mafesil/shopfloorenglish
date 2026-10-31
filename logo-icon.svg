@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Shop Floor English">
+  <rect width="512" height="512" rx="112" fill="#861518"/>
+  <g fill="none" stroke="#FFFFFF">
+    <circle cx="256" cy="256" r="172" stroke-width="38" stroke-dasharray="36 30.8" transform="rotate(-6 256 256)"/>
+    <circle cx="256" cy="256" r="148" stroke-width="34"/>
+  </g>
+  <rect x="186" y="190" width="140" height="104" rx="26" fill="#FFFFFF"/>
+  <path d="M214 288 L202 328 L248 292 Z" fill="#FFFFFF"/>
+  <path d="M202 242 H222 L233 214 L245 270 L257 206 L269 276 L281 228 L289 242 H310" fill="none" stroke="#861518" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
